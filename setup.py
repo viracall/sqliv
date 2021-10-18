@@ -7,8 +7,8 @@ from shutil import copy2, rmtree
 from distutils.dir_util import copy_tree
 
 
-__author__ = "Ghost"
-__email__ = "official.ghost@tuta.io"
+__author__ = "hidd3n"
+__email__ = hidd3n@hidd3n.io"
 __license__ = "GPL"
 __version__ = "2.0"
 
@@ -22,7 +22,7 @@ EXEC_PATH_MAC = "/usr/local/bin"
 
 
 def metadata():
-    print "SQLiv (2.0) by {}".format(__author__)
+    print "SQLiv (1.0) by {}".format(__author__)
     print "Massive SQL injection vulnerability scanner"
 
 
